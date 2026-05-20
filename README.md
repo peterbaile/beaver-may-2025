@@ -1,6 +1,7 @@
-# 🦫 BEAVER: An Enterprise Benchmark for Text-to-SQL
+# 🦫 BEAVER: An Enterprise Benchmark for Text-to-SQL (`BEAVER-MAY-2025` version)
 
 ### Updates
+- 05/20/2026: The latest version of our benchmark is available at [https://beaverbench.github.io/](https://beaverbench.github.io/), featuring 8000 queries, a full leaderboard, and the evaluation code.
 - 03/01/2025
   - Expanded DW queries so that in total there are 209 queries.
   - For a streamlined and rapid setup, we've translated all DW queries from Oracle SQL to MySQL dialect. A MySQL version of the DW database is also available in Google Drive. Please refer to [Setup](#setup) for more information.
